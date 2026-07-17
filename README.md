@@ -14,7 +14,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```python
 class Surya:
@@ -51,7 +51,7 @@ class Surya:
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -91,9 +91,9 @@ class Surya:
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
-### 🤖 Local AI Assistant
+###  Local AI Assistant
 
 Offline AI assistant capable of
 
@@ -125,7 +125,7 @@ AI-powered legal assistant
 
 ---
 
-### 🎵 Music App UI
+###  Music App UI
 
 Modern UI/UX concept
 
@@ -135,7 +135,7 @@ Modern UI/UX concept
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -147,7 +147,7 @@ Modern UI/UX concept
 
 ---
 
-# ⚡ GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -157,7 +157,7 @@ Modern UI/UX concept
 
 ---
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -167,7 +167,7 @@ Modern UI/UX concept
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -177,7 +177,7 @@ Modern UI/UX concept
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Agentic AI
 - Local Large Language Models
@@ -188,7 +188,7 @@ Modern UI/UX concept
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 ✅ Build AI Products
 
@@ -202,7 +202,7 @@ Modern UI/UX concept
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p>
 
@@ -224,7 +224,7 @@ Modern UI/UX concept
 
 <div align="center">
 
-### ⭐ "Code. Build. Learn. Repeat."
+###  "Code. Build. Learn. Repeat."
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
