@@ -94,18 +94,10 @@ I am a Full Stack AI Developer and Researcher dedicated to bridging the gap betw
 ## Analytics & Metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaVignesh06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaVignesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaVignesh06&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaVignesh06&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SuryaVignesh06&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaVignesh06&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaVignesh06&theme=tokyonight&no-frame=true&row=1&column=6&bg_color=0D1117" alt="GitHub Trophies" />
 </div>
