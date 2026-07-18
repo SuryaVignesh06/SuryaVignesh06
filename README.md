@@ -1,231 +1,71 @@
 <div align="center">
 
-# Hi 👋, I'm Surya Vignesh
+<h1 align="center">Surya Vignesh</h1>
+<h3 align="center">AI Engineer | Full Stack Developer | UI/UX Designer</h3>
 
-### AI Engineer • Full Stack Developer • UI/UX Designer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Engineering+Cognitive+Systems;RAG+%7C+Local+LLMs+%7C+Agentic+AI;Expanding+into+Robotics;Designing+Cinematic+User+Experiences" alt="Animated Developer Skills" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Powered+Applications;Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+Something+New" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+Building intelligent software where advanced AI meets exceptional user experience.
 </p>
 
 </div>
 
----
+<br/>
 
-#  About Me
+## About Me
 
-```python
-class Surya:
+I am a Full Stack AI Developer and Researcher dedicated to bridging the gap between high-performance engineering and intuitive design. Currently pursuing my B.Tech in CSE at Vishnu Institute of Technology (CGPA: 9.18), my work revolves around crafting local-first architectures, agentic AI systems, and cinematic web interfaces. I am actively expanding my research and development focus into **Robotics**, exploring the intersection of hardware automation and cognitive AI.
 
-    def __init__(self):
-        self.name = "Surya Vignesh"
-        self.role = "AI Engineer"
-        self.location = "India"
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "C"
-        ]
+* **Current Focus:** Robotics, Agentic AI, Local LLMs, and RAG architectures.
+* **Design Philosophy:** Prioritizing seamless UX, offline-capable performance, and minimalist, high-end interfaces.
+* **Academic Standing:** B.Tech CSE @ Vishnu Institute of Technology (CGPA: 9.18).
 
-        self.interests = [
-            "Artificial Intelligence",
-            "LLMs",
-            "Full Stack Development",
-            "Desktop Applications",
-            "UI/UX Design",
-            "Automation"
-        ]
+<br/>
 
-    def currently_learning(self):
-        return [
-            "Agentic AI",
-            "RAG",
-            "Local LLMs",
-            "Electron",
-            "System Design"
-        ]
-```
+## Featured Engineering Pursuits
 
----
+| Project | Description | Architecture Highlights |
+| :--- | :--- | :--- |
+| **Local AI Assistant** | Autonomous desktop companion. | Local LLM Integration, Multi-Agent System, Voice & Browser Automation, File Management |
+| **Offline RAG Navigation** | Offline-first modular navigation. | RAG Implementation, Local Search, GPS Integration |
+| **CrackAI** | Adaptive machine learning platform. | Dynamic Learning Algorithms, Real-time Analytics |
+| **Lawbby AI** | Semantic legal intelligence platform. | Natural Language Processing, Document Parsing |
 
-#  Tech Stack
+<br/>
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux" />
-</p>
-
----
-
-#  Featured Projects
-
-###  Local AI Assistant
-
-Offline AI assistant capable of
-
-- Voice Commands
-- Local LLM Integration
-- File Automation
-- Browser Automation
-- Desktop Control
-
----
-
-### 🍱 Zero Waste
-
-AI-powered surplus food redistribution platform connecting
-
-- Donors
-- NGOs
-- Volunteers
-
----
-
-### ⚖️ Law AI
-
-AI-powered legal assistant
-
-- Case Analysis
-- Legal Search
-- Document Understanding
-
----
-
-###  Music App UI
-
-Modern UI/UX concept
-
-- Clean Design
-- Smooth Animations
-- Responsive Layout
-
----
-
-#  GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-#  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-#  Currently Learning
-
-- Agentic AI
-- Local Large Language Models
-- RAG Systems
-- Electron
-- Full Stack Development
-- System Design
-
----
-
-#  2026 Goals
-
-✅ Build AI Products
-
-✅ Contribute to Open Source
-
-✅ Solve 500+ DSA Problems
-
-✅ Create Production Ready Applications
-
-✅ Land Software Engineering Internship
-
----
-
-#  Connect With Me
-
-<p>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
+## Technical Arsenal
 
 <div align="center">
-
-###  "Code. Build. Learn. Repeat."
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,tailwind,nodejs,flask,mysql,mongodb,sqlite,git,github,docker,linux,figma,vscode&theme=dark" alt="Tech Stack Icons" />
 </div>
+
+<br/>
+
+## Analytics & Metrics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaVignesh06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaVignesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SuryaVignesh06&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaVignesh06&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryaVignesh06&theme=tokyonight&no-frame=true&row=1&column=6&bg_color=0D1117" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## Connect & Collaborate
+
+* **GitHub:** [SuryaVignesh06](https://github.com/SuryaVignesh06)
+* **LinkedIn:** [chikkala-venkata-surya-vignesh](https://linkedin.com/in/chikkala-venkata-surya-vignesh)
+* **Portfolio:** [suryavignesh06.github.io/Portfolio](https://suryavignesh06.github.io/Portfolio)
+* **Email:** [suryavignesh723rk@gmail.com](mailto:suryavignesh723rk@gmail.com)
