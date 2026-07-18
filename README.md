@@ -3,7 +3,7 @@
 <h1 align="center">Surya Vignesh</h1>
 <h3 align="center">AI Engineer | Full Stack Developer | UI/UX Designer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Engineering+Cognitive+Systems;RAG+%7C+Local+LLMs+%7C+Agentic+AI;Expanding+into+Robotics;Designing+Cinematic+User+Experiences" alt="Animated Developer Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Engineering+Cognitive+Systems;RAG+%7C+Local+LLMs+%7C+Agentic+AI;Expanding+into+Robotics;Designing+Stunning+User+Experiences" alt="Animated Developer Skills" />
 
 <p align="center">
 Building intelligent software where advanced AI meets exceptional user experience.
