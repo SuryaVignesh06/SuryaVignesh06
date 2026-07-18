@@ -15,7 +15,7 @@ Building intelligent software where advanced AI meets exceptional user experienc
 <a href="https://github.com/SuryaVignesh06">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
 </a>
-<a href="https://linkedin.com/in/chikkala-venkata-surya-vignesh">
+<a href="www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
 </a>
 <a href="https://suryavignesh06.github.io/Portfolio">
