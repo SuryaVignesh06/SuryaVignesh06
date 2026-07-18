@@ -9,6 +9,22 @@
 Building intelligent software where advanced AI meets exceptional user experience.
 </p>
 
+<br/>
+
+<!-- Clickable Button Links -->
+<a href="https://github.com/SuryaVignesh06">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
+</a>
+<a href="https://linkedin.com/in/chikkala-venkata-surya-vignesh">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+</a>
+<a href="https://suryavignesh06.github.io/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Button"/>
+</a>
+<a href="mailto:suryavignesh723rk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
+</a>
+
 </div>
 
 <br/>
@@ -19,18 +35,51 @@ I am a Full Stack AI Developer and Researcher dedicated to bridging the gap betw
 
 * **Current Focus:** Robotics, Agentic AI, Local LLMs, and RAG architectures.
 * **Design Philosophy:** Prioritizing seamless UX, offline-capable performance, and minimalist, high-end interfaces.
-* **Academic Standing:** B.Tech CSE @ Vishnu Institute of Technology (CGPA: 9.18).
 
 <br/>
 
 ## Featured Engineering Pursuits
 
-| Project | Description | Architecture Highlights |
-| :--- | :--- | :--- |
-| **Local AI Assistant** | Autonomous desktop companion. | Local LLM Integration, Multi-Agent System, Voice & Browser Automation, File Management |
-| **Offline RAG Navigation** | Offline-first modular navigation. | RAG Implementation, Local Search, GPS Integration |
-| **CrackAI** | Adaptive machine learning platform. | Dynamic Learning Algorithms, Real-time Analytics |
-| **Lawbby AI** | Semantic legal intelligence platform. | Natural Language Processing, Document Parsing |
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=3000&color=FFFFFF&vCenter=true&lines=Local+AI+Assistant" alt="Local AI Assistant" />
+      <br/>
+      An autonomous desktop companion built on a multi-agent architecture. Features include local LLM processing, direct voice integration, and full browser/file automation.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Local_LLM-00C2FF?style=flat-square&logo=openai&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=3000&color=FFFFFF&vCenter=true&lines=Offline+RAG+Navigation" alt="Offline RAG Navigation" />
+      <br/>
+      An offline-first modular navigation system. Engineered to integrate GPS systems with localized RAG search algorithms without relying on external databases.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-FF4F00?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=3000&color=FFFFFF&vCenter=true&lines=CrackAI" alt="CrackAI" />
+      <br/>
+      An adaptive machine learning platform featuring dynamic learning algorithms and real-time analytics to optimize cognitive retention.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=3000&color=FFFFFF&vCenter=true&lines=Lawbby+AI" alt="Lawbby AI" />
+      <br/>
+      A semantic legal intelligence platform utilizing natural language processing and advanced document parsing for real-time legal research.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -60,12 +109,3 @@ I am a Full Stack AI Developer and Researcher dedicated to bridging the gap betw
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SuryaVignesh06&theme=tokyonight&no-frame=true&row=1&column=6&bg_color=0D1117" alt="GitHub Trophies" />
 </div>
-
-<br/>
-
-## Connect & Collaborate
-
-* **GitHub:** [SuryaVignesh06](https://github.com/SuryaVignesh06)
-* **LinkedIn:** [chikkala-venkata-surya-vignesh](https://linkedin.com/in/chikkala-venkata-surya-vignesh)
-* **Portfolio:** [suryavignesh06.github.io/Portfolio](https://suryavignesh06.github.io/Portfolio)
-* **Email:** [suryavignesh723rk@gmail.com](mailto:suryavignesh723rk@gmail.com)
