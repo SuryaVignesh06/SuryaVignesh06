@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Surya Vignesh
@@ -15,29 +16,49 @@
 </div>
 
 <table>
-  <tr> <!-- Added the missing opening table row tag here -->
-    <td width="45%">
-      <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="100%" alt="Surya Vignesh">
-    </td>
-      
-    <td width="55%" valign="top">
-      <!-- Converted Markdown to standard HTML for reliable rendering inside the table -->
-      <h2>About Me</h2>
-      <p>I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.</p>
-      <p>My primary interests include:</p>
-      <ul>
-        <li>AI Agents</li>
-        <li>LLM Fine-Tuning</li>
-        <li>Intelligent Automation</li>
-        <li>Full Stack Development</li>
-        <li>UI/UX & Product Design</li>
-      </ul>
-      <p>I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.</p>
-    </td>
-  </tr>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="100%" alt="Surya Vignesh"/>
+
+</td>
+
+<td width="55%" valign="top">
+
+<h2>About Me</h2>
+
+<p>
+I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.
+</p>
+
+<ul>
+<li>🤖 AI Agents</li>
+<li>🧠 LLM Fine-Tuning</li>
+<li>⚡ Intelligent Automation</li>
+<li>💻 Full Stack Development</li>
+<li>🎨 UI/UX & Product Design</li>
+</ul>
+
+<p>
+I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.
+</p>
+
+</td>
+</tr>
 </table>
 
-# Tech Stack
+---
+
+# 🚀 Current Focus
+
+- Building Local AI Assistants
+- Fine-tuning Open Source LLMs
+- RAG & Agentic AI
+- Modern Product Design
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -60,10 +81,9 @@
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Gemma-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unsloth-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemma-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unsloth-FF7F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 </p>
 
 ### Database
@@ -80,9 +100,9 @@
 
 ---
 
-# Featured Engineering Projects
+# ✨ Featured Projects
 
-## Local AI Assistant
+## 🤖 Local AI Assistant
 
 Desktop AI Agent with voice interaction, browser automation, local LLM reasoning, and OS-level automation.
 
@@ -90,31 +110,31 @@ Desktop AI Agent with voice interaction, browser automation, local LLM reasoning
 
 ---
 
-## Offline RAG Navigation
+## 📍 Offline RAG Navigation
 
-Offline navigation platform integrating Retrieval-Augmented Generation with local search and SQLite.
+Offline navigation platform integrating Retrieval-Augmented Generation with local search.
 
 **Tech:** Python • SQLite • RAG
 
 ---
 
-## Lawbby AI
+## ⚖️ Lawbby AI
 
-AI-powered legal intelligence platform for document understanding and semantic legal search.
+AI-powered legal intelligence platform.
 
 **Tech:** Next.js • TypeScript
 
 ---
 
-## CrackAI
+## 🎯 CrackAI
 
-Adaptive AI learning platform focused on personalized learning and intelligent analytics.
+Adaptive AI learning platform.
 
 **Tech:** React • Node.js
 
 ---
 
-# Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
 <picture>
@@ -126,7 +146,7 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b">LinkedIn</a> •
@@ -139,6 +159,6 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 <div align="center">
 
-### *"Building software that feels intelligent, intuitive, and impactful."*
+### Building software that feels intelligent, intuitive, and impactful.
 
 </div>
