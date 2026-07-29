@@ -27,7 +27,7 @@
 
 <td width="66%">
 
-## About Me
+# About Me
 
 I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.
 
