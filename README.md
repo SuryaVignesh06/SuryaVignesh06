@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="hero.png" width="220" alt="Profile"/>
+<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/profile.png" width="220">
 
 # Surya Vignesh
 
