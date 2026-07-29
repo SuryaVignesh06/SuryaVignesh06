@@ -1,18 +1,18 @@
-<div align="center">
+<div style="font-family: 'Poppins Rounded', 'SF Pro Rounded', -apple-system, BlinkMacSystemFont, sans-serif;" align="center">
 
 <!-- HEADER SECTION -->
 <h1 align="center">Surya Vignesh</h1>
 <h3 align="center">AI Engineer | Full Stack Developer | UI/UX Designer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Engineering+Cognitive+Systems;RAG+%7C+Local+LLMs+%7C+Agentic+AI;Expanding+into+Robotics;Designing+High-Performance+Interfaces" alt="Animated Developer Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins+Rounded&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Engineering+Cognitive+Systems;RAG+%7C+Local+LLMs+%7C+Agentic+AI;Expanding+into+Robotics;Designing+High-Performance+Interfaces" alt="Animated Developer Skills" />
 <br/><br/>
 
 <!-- TOP BENTO GRID: About & Connect -->
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="100%" border="0" cellspacing="15" cellpadding="15">
   <tr>
-    <td width="70%" valign="top">
-      <h2>About Me</h2>
-      I am a Full Stack AI Developer and Researcher dedicated to bridging the gap between high-performance engineering and intuitive design. Currently pursuing my B.Tech in CSE at Vishnu Institute of Technology (CGPA: 9.18), my work revolves around crafting local-first architectures, agentic AI systems, and optimized web interfaces. I am actively expanding my research and development focus into <strong>Robotics</strong>, exploring the intersection of hardware automation and cognitive AI.
+    <td width="70%" valign="top" align="left">
+      <h2 align="left">About Me</h2>
+      <p>I am a Full Stack AI Developer and Researcher dedicated to bridging the gap between high-performance engineering and intuitive design. Currently pursuing my B.Tech in CSE at Vishnu Institute of Technology (CGPA: 9.18), my work revolves around crafting local-first architectures, agentic AI systems, and optimized web interfaces. I am actively expanding my research and development focus into <strong>Robotics</strong>, exploring the intersection of hardware automation and cognitive AI.</p>
     </td>
     <td width="30%" valign="top" align="center">
       <h2>Connect</h2>
@@ -21,7 +21,7 @@
       </a>
       <br/><br/>
       <a href="https://suryavignesh06.github.io/Portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=black" width="120" alt="Portfolio Button"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="120" alt="Portfolio Button"/>
       </a>
       <br/><br/>
       <a href="mailto:suryavignesh723rk@gmail.com">
@@ -32,12 +32,11 @@
 </table>
 
 <!-- MIDDLE BENTO GRID: Tech Stack & Languages -->
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="100%" border="0" cellspacing="15" cellpadding="15">
   <tr>
     <td width="60%" valign="top" align="center">
       <h2>Technical Arsenal</h2>
       <br/>
-      <!-- perline=6 forces a clean grid of icons -->
       <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,tailwind,nodejs,flask,mysql,mongodb,sqlite,git,docker,linux,figma,vscode&theme=dark&perline=6" alt="Tech Stack Icons" />
     </td>
     <td width="40%" valign="top" align="center">
@@ -48,48 +47,48 @@
 </table>
 
 <!-- PROJECTS BENTO GRID: 2x2 Layout -->
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="100%" border="0" cellspacing="15" cellpadding="15">
   <tr>
-    <td colspan="2"><h2>Featured Engineering Pursuits</h2></td>
+    <td colspan="2" align="center"><h2>Featured Engineering Pursuits</h2></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">Local AI Assistant</h3>
-      An autonomous desktop companion built on a multi-agent architecture. Features include local LLM processing, direct voice integration, and full OS/browser automation.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Local_LLM-00C2FF?style=flat-square&logo=openai&logoColor=black" />
+    <td width="50%" valign="top" align="left">
+      <h3>Local AI Assistant</h3>
+      <p>An autonomous desktop companion built on a multi-agent architecture. Features include local LLM processing, direct voice integration, and full OS/browser automation.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Local_LLM-000000?style=flat-square&logo=openai&logoColor=white" alt="Local LLM" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">Offline RAG Navigation</h3>
-      An offline-first modular navigation system. Engineered to integrate GPS systems with localized RAG search algorithms without relying on external databases.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/RAG-FF4F00?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <td width="50%" valign="top" align="left">
+      <h3>Offline RAG Navigation</h3>
+      <p>An offline-first modular navigation system. Engineered to integrate GPS systems with localized RAG search algorithms without relying on external databases.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/RAG-FF4F00?style=flat-square&logo=c&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">CrackAI</h3>
-      An adaptive machine learning platform featuring dynamic learning algorithms and real-time analytics to optimize cognitive retention.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <td width="50%" valign="top" align="left">
+      <h3>CrackAI</h3>
+      <p>An adaptive machine learning platform featuring dynamic learning algorithms and real-time analytics to optimize cognitive retention.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">Lawbby AI</h3>
-      A semantic legal intelligence platform utilizing natural language processing and advanced document parsing for real-time legal research.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <td width="50%" valign="top" align="left">
+      <h3>Lawbby AI</h3>
+      <p>A semantic legal intelligence platform utilizing natural language processing and advanced document parsing for real-time legal research.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
   </tr>
 </table>
 
 <!-- BOTTOM BENTO GRID: GitHub Analytics -->
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="100%" border="0" cellspacing="15" cellpadding="15">
   <tr>
-    <td colspan="2"><h2>Analytics & Metrics</h2></td>
+    <td colspan="2" align="center"><h2>Analytics & Metrics</h2></td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
