@@ -17,8 +17,7 @@
 </div>
 
 <table>
-<tr>
-<td width="39%" align="center">
+<td width="45%" align="center">
 
 <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png"
      width="100%"
@@ -26,7 +25,6 @@
 
 </td>
 
-<td width="66%">
 
 # About Me
 
