@@ -21,7 +21,7 @@
 <td width="39%" align="center">
 
 <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png"
-     width="120%"
+     width="100%"
      alt="Surya Vignesh">
 
 </td>
