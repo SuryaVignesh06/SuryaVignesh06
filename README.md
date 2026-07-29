@@ -33,11 +33,11 @@ I'm a Computer Science student passionate about building AI-powered software tha
 
 My primary interests include:
 
-- 🤖 AI Agents
-- 🧠 LLM Fine-Tuning
-- ⚡ Intelligent Automation
-- 💻 Full Stack Development
-- 🎨 UI/UX & Product Design
+-  AI Agents
+-  LLM Fine-Tuning
+-  Intelligent Automation
+-  Full Stack Development
+-  UI/UX & Product Design
 
 I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.
 
@@ -45,17 +45,6 @@ I enjoy combining engineering with thoughtful user experiences to create softwar
 </tr>
 </table>
 
----
-
-# 🚀 Current Focus
-
-- Building Local AI Assistants
-- Fine-tuning Open Source LLMs
-- RAG & Agentic AI
-- Intelligent Desktop Automation
-- Modern Product Design
-
----
 
 # 🛠 Tech Stack
 
