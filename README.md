@@ -133,15 +133,6 @@ An adaptive machine learning platform focused on personalized learning pathways 
 
 ---
 
-# Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b">LinkedIn</a> •
-<a href="https://github.com/SuryaVignesh06">GitHub</a> •
-<a href="https://suryavignesh06.github.io/Portfolio">Portfolio</a> •
-<a href="mailto:suryavignesh723rk@gmail.com">Email</a>
-</p>
-
 ---
 
 <div align="center">
