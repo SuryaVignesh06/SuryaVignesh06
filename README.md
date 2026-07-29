@@ -20,7 +20,7 @@
 <tr>
 <td width="34%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/SuryaVignesh06?v=4" width="220"/>
+<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/profile.png" width="220">
 
 </td>
 
