@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="34%" align="center">
+<td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="220">
 
