@@ -1,6 +1,4 @@
-
 <div align="center">
-
 
 # Surya Vignesh
 
@@ -17,35 +15,29 @@
 </div>
 
 <table>
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png"
-     width="100%"
-     alt="Surya Vignesh">
-
-</td>
-
-
-# About Me
-
-I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.
-
-My primary interests include:
-
--  AI Agents
--  LLM Fine-Tuning
--  Intelligent Automation
--  Full Stack Development
--  UI/UX & Product Design
-
-I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.
-
-</td>
-</tr>
+  <tr> <!-- Added the missing opening table row tag here -->
+    <td width="45%">
+      <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="100%" alt="Surya Vignesh">
+    </td>
+      
+    <td width="55%" valign="top">
+      <!-- Converted Markdown to standard HTML for reliable rendering inside the table -->
+      <h2>About Me</h2>
+      <p>I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.</p>
+      <p>My primary interests include:</p>
+      <ul>
+        <li>AI Agents</li>
+        <li>LLM Fine-Tuning</li>
+        <li>Intelligent Automation</li>
+        <li>Full Stack Development</li>
+        <li>UI/UX & Product Design</li>
+      </ul>
+      <p>I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.</p>
+    </td>
+  </tr>
 </table>
 
-
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -88,9 +80,9 @@ I enjoy combining engineering with thoughtful user experiences to create softwar
 
 ---
 
-#  Featured Engineering Projects
+# Featured Engineering Projects
 
-##  Local AI Assistant
+## Local AI Assistant
 
 Desktop AI Agent with voice interaction, browser automation, local LLM reasoning, and OS-level automation.
 
@@ -98,7 +90,7 @@ Desktop AI Agent with voice interaction, browser automation, local LLM reasoning
 
 ---
 
-##  Offline RAG Navigation
+## Offline RAG Navigation
 
 Offline navigation platform integrating Retrieval-Augmented Generation with local search and SQLite.
 
@@ -106,7 +98,7 @@ Offline navigation platform integrating Retrieval-Augmented Generation with loca
 
 ---
 
-##  Lawbby AI
+## Lawbby AI
 
 AI-powered legal intelligence platform for document understanding and semantic legal search.
 
@@ -114,7 +106,7 @@ AI-powered legal intelligence platform for document understanding and semantic l
 
 ---
 
-##  CrackAI
+## CrackAI
 
 Adaptive AI learning platform focused on personalized learning and intelligent analytics.
 
@@ -122,7 +114,7 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 ---
 
-#  Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <picture>
@@ -134,15 +126,13 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b">LinkedIn</a> •
 <a href="https://github.com/SuryaVignesh06">GitHub</a> •
 <a href="https://suryavignesh06.github.io/Portfolio">Portfolio</a> •
 <a href="mailto:suryavignesh723rk@gmail.com">Email</a>
-
 </p>
 
 ---
