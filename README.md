@@ -89,9 +89,9 @@ I enjoy combining engineering with thoughtful user experiences to create softwar
 
 ---
 
-# ✨ Featured Engineering Projects
+#  Featured Engineering Projects
 
-## 🤖 Local AI Assistant
+##  Local AI Assistant
 
 Desktop AI Agent with voice interaction, browser automation, local LLM reasoning, and OS-level automation.
 
@@ -99,7 +99,7 @@ Desktop AI Agent with voice interaction, browser automation, local LLM reasoning
 
 ---
 
-## 📍 Offline RAG Navigation
+##  Offline RAG Navigation
 
 Offline navigation platform integrating Retrieval-Augmented Generation with local search and SQLite.
 
@@ -107,7 +107,7 @@ Offline navigation platform integrating Retrieval-Augmented Generation with loca
 
 ---
 
-## ⚖️ Lawbby AI
+##  Lawbby AI
 
 AI-powered legal intelligence platform for document understanding and semantic legal search.
 
@@ -115,7 +115,7 @@ AI-powered legal intelligence platform for document understanding and semantic l
 
 ---
 
-## 🎯 CrackAI
+##  CrackAI
 
 Adaptive AI learning platform focused on personalized learning and intelligent analytics.
 
@@ -123,7 +123,7 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 ---
 
-# 🐍 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <picture>
@@ -135,7 +135,7 @@ Adaptive AI learning platform focused on personalized learning and intelligent a
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
