@@ -18,10 +18,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="39%" align="center">
 
 <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png"
-     width="100%"
+     width="120%"
      alt="Surya Vignesh">
 
 </td>
