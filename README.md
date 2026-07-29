@@ -1,7 +1,6 @@
 
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/SuryaVignesh06?v=4" width="180" alt="Surya Vignesh"/>
+<img src="hero.png" width="220" alt="Profile"/>
 
 # Surya Vignesh
 
