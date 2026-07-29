@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Surya Vignesh
 
 ### AI Engineer • Full Stack Developer • Product Designer
 
-*Building intelligent software, AI agents, and user-centric digital experiences.*
+*Engineering intelligent software, autonomous agents, and user-centric digital experiences.*
 
 <p>
 <a href="https://www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,49 +15,37 @@
 </div>
 
 <table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="100%" alt="Surya Vignesh"/>
-
-</td>
-
-<td width="55%" valign="top">
-
-<h2>About Me</h2>
-
-<p>
-I'm a Computer Science student passionate about building AI-powered software that solves real-world problems.
-</p>
-
-<ul>
-<li>🤖 AI Agents</li>
-<li>🧠 LLM Fine-Tuning</li>
-<li>⚡ Intelligent Automation</li>
-<li>💻 Full Stack Development</li>
-<li>🎨 UI/UX & Product Design</li>
-</ul>
-
-<p>
-I enjoy combining engineering with thoughtful user experiences to create software that is practical, scalable, and intuitive.
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="100%" alt="Surya Vignesh"/>
+    </td>
+    <td width="55%" valign="top">
+      <h2>About Me</h2>
+      <p>I am a Computer Science student specializing in AI-powered software development, dedicated to building solutions that address complex, real-world challenges.</p>
+      <ul>
+        <li>AI Agents & Systems</li>
+        <li>LLM Fine-Tuning</li>
+        <li>Intelligent Automation</li>
+        <li>Full Stack Development</li>
+        <li>UI/UX & Product Design</li>
+      </ul>
+      <p>My approach combines robust engineering with thoughtful design to deliver software that is highly scalable, practical, and intuitive.</p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-- Building Local AI Assistants
-- Fine-tuning Open Source LLMs
-- RAG & Agentic AI
-- Modern Product Design
+- Architecting Local AI Assistants
+- Fine-tuning Open Source Large Language Models
+- Developing RAG & Agentic AI Systems
+- Designing Modern, High-Performance Interfaces
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -100,41 +87,41 @@ I enjoy combining engineering with thoughtful user experiences to create softwar
 
 ---
 
-# ✨ Featured Projects
+# Featured Projects
 
-## 🤖 Local AI Assistant
+## Local AI Assistant
 
-Desktop AI Agent with voice interaction, browser automation, local LLM reasoning, and OS-level automation.
+An autonomous desktop agent featuring voice integration, browser and OS-level automation, and local LLM reasoning capabilities.
 
 **Tech:** Python • Gemma • Ollama • Unsloth
 
 ---
 
-## 📍 Offline RAG Navigation
+## Offline RAG Navigation
 
-Offline navigation platform integrating Retrieval-Augmented Generation with local search.
+An offline-first navigation platform integrating localized Retrieval-Augmented Generation (RAG) and search functionalities without reliance on external databases.
 
 **Tech:** Python • SQLite • RAG
 
 ---
 
-## ⚖️ Lawbby AI
+## Lawbby AI
 
-AI-powered legal intelligence platform.
+An advanced legal intelligence platform leveraging natural language processing for document comprehension and semantic search.
 
 **Tech:** Next.js • TypeScript
 
 ---
 
-## 🎯 CrackAI
+## CrackAI
 
-Adaptive AI learning platform.
+An adaptive machine learning platform focused on personalized learning pathways and real-time cognitive retention analytics.
 
 **Tech:** React • Node.js
 
 ---
 
-# 🐍 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <picture>
@@ -146,7 +133,7 @@ Adaptive AI learning platform.
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chikkala-venkata-surya-vignesh-82690631b">LinkedIn</a> •
@@ -159,6 +146,6 @@ Adaptive AI learning platform.
 
 <div align="center">
 
-### Building software that feels intelligent, intuitive, and impactful.
+### Engineering software that is intelligent, intuitive, and impactful.
 
 </div>
