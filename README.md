@@ -20,7 +20,9 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png" width="400">
+<img src="https://raw.githubusercontent.com/SuryaVignesh06/SuryaVignesh06/master/Hero.png"
+     width="100%"
+     alt="Surya Vignesh">
 
 </td>
 
