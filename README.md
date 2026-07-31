@@ -138,21 +138,6 @@ Adaptive learning platform with personalized pathways and real-time cognitive re
 </tr>
 </table>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=500&height=50&lines=GITHUB+STATS&repeat=false"/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SuryaVignesh06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=818CF8&text_color=C7D2FE" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaVignesh06&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=818CF8&currStreakLabel=C7D2FE" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaVignesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=C7D2FE" width="48%"/>
-</div>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=600&height=50&lines=CONTRIBUTION+GRAPH&repeat=false"/>
 
 <div align="center">
