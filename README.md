@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6366F1&height=220&section=header&text=Surya%20Vignesh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Designer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6366F1&height=220&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SURYA+VIGNESH&repeat=false" alt="Surya Vignesh"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=750&height=30&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Product+Designer&repeat=false"/>
 
 <br/>
 
@@ -8,13 +14,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://suryavignesh06.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryavignesh723rk@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents;Fine-Tuning+Open-Source+LLMs;Architecting+RAG+%26+Agentic+Systems;Designing+Intelligent%2C+Intuitive+Software" alt="Typing SVG"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents;Fine-Tuning+Open-Source+LLMs;Architecting+RAG+%26+Agentic+Systems;Designing+Intelligent%2C+Intuitive+Software" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=400&height=50&lines=ABOUT+ME&repeat=false"/>
 
 I'm a Computer Science student specializing in **AI-powered software development**, focused on building systems that turn complex, real-world problems into scalable, intelligent solutions.
 
@@ -27,25 +35,25 @@ currently:   Architecting local-first AI assistants
 
 <br/>
 
-## ⚡ Current Focus
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=500&height=50&lines=CURRENT+FOCUS&repeat=false"/>
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 Agentic AI**
+**Agentic AI**
 Architecting local, autonomous AI assistants with OS and browser-level control
 
-**🎯 LLM Fine-Tuning**
+**LLM Fine-Tuning**
 Adapting open-source models (Gemma) for domain-specific reasoning
 
 </td>
 <td width="50%">
 
-**🔍 RAG Systems**
+**RAG Systems**
 Designing retrieval-augmented pipelines for offline, private-first search
 
-**🎨 Interface Design**
+**Interface Design**
 Crafting high-performance, minimal, and intentional UI/UX
 
 </td>
@@ -54,7 +62,7 @@ Crafting high-performance, minimal, and intentional UI/UX
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=400&height=50&lines=TECH+STACK&repeat=false"/>
 
 <table width="100%">
 <tr>
@@ -89,13 +97,13 @@ Crafting high-performance, minimal, and intentional UI/UX
 
 <br/>
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=600&height=50&lines=FEATURED+PROJECTS&repeat=false"/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Local AI Assistant
+### Local AI Assistant
 Autonomous desktop agent with voice integration, browser & OS-level automation, and local LLM reasoning.
 
 `Python` `Gemma` `Ollama` `Unsloth`
@@ -103,7 +111,7 @@ Autonomous desktop agent with voice integration, browser & OS-level automation, 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Offline RAG Navigation
+### Offline RAG Navigation
 Offline-first navigation platform powered by localized RAG — zero reliance on external databases.
 
 `Python` `SQLite` `RAG`
@@ -113,7 +121,7 @@ Offline-first navigation platform powered by localized RAG — zero reliance on 
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Lawbby AI
+### Lawbby AI
 Legal intelligence platform using NLP for document comprehension and semantic search.
 
 `Next.js` `TypeScript`
@@ -121,7 +129,7 @@ Legal intelligence platform using NLP for document comprehension and semantic se
 </td>
 <td width="50%" valign="top">
 
-### 📊 CrackAI
+### CrackAI
 Adaptive learning platform with personalized pathways and real-time cognitive retention analytics.
 
 `React` `Node.js`
@@ -132,7 +140,7 @@ Adaptive learning platform with personalized pathways and real-time cognitive re
 
 <br/>
 
-## 📈 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=500&height=50&lines=GITHUB+STATS&repeat=false"/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SuryaVignesh06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=818CF8&text_color=C7D2FE" width="48%"/>
@@ -145,7 +153,7 @@ Adaptive learning platform with personalized pathways and real-time cognitive re
 
 <br/>
 
-## 🐍 Contribution Graph
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=600&height=50&lines=CONTRIBUTION+GRAPH&repeat=false"/>
 
 <div align="center">
 <picture>
@@ -160,6 +168,6 @@ Adaptive learning platform with personalized pathways and real-time cognitive re
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0F172A&height=120&section=footer"/>
 
-**Engineering software that is intelligent, intuitive, and impactful.**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=30&lines=Engineering+software+that+is+intelligent%2C+intuitive%2C+and+impactful.&repeat=false"/>
 
 </div>
