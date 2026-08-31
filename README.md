@@ -64,36 +64,81 @@ Crafting high-performance, minimal, and intentional UI/UX
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=400&height=50&lines=TECH+STACK&repeat=false"/>
 
-<table width="100%">
-<tr>
-<td><strong>Languages</strong></td>
-<td><img src="https://skillicons.dev/icons?i=python,java,c,js,ts"/></td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/></td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,flask"/></td>
-</tr>
-<tr>
-<td><strong>AI / ML</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Gemma-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unsloth-4F46E5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-312E81?style=for-the-badge&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/></td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td><img src="https://skillicons.dev/icons?i=git,docker,linux,figma,vscode"/></td>
-</tr>
-</table>
+<br/>
+
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+&nbsp;&nbsp;
+
+</marquee>
+
+<br/>
+
+<marquee behavior="scroll" direction="right" scrollamount="5">
+
+<img src="https://img.shields.io/badge/Gemma-6366F1?style=for-the-badge&logoColor=white" height="35"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Unsloth-4F46E5?style=for-the-badge&logoColor=white" height="35"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ollama-312E81?style=for-the-badge&logoColor=white" height="35"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+&nbsp;&nbsp;
+
+</marquee>
+
+</div>
 
 <br/>
 
