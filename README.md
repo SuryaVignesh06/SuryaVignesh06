@@ -32,7 +32,15 @@ focus:       Agentic AI · LLM Fine-Tuning · RAG Systems · Product Design
 philosophy:  Engineering rigor meets thoughtful, human-centered design
 currently:   Architecting local-first AI assistants
 ```
+<div align="center">
 
+<img
+  src="./assets/skills-marquee.gif"
+  width="100%"
+  alt="My Tech Stack"
+/>
+
+</div>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=500&height=50&lines=CURRENT+FOCUS&repeat=false"/>
